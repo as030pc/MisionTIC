@@ -1,4 +1,4 @@
-#Clase 2
+## Clase 2
 
 1. Como realizar comentarios
  ctrl + shift + c.
