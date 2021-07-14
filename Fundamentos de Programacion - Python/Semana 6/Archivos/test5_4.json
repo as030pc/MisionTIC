@@ -1,0 +1,17 @@
+[
+    {
+        "codigo": "100",
+        "nombre": "paola",
+        "edad": 30
+    },
+    {
+        "codigo": "200",
+        "nombre": "Andres",
+        "edad": 20
+    },
+    {
+        "codigo": "300",
+        "nombre": "Catalina",
+        "edad": 40
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "codigo": "100",
+        "nombre": "paola",
+        "notas": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "codigo": "200",
+        "nombre": "Andres",
+        "notas": [
+            3,
+            4,
+            2
+        ]
+    },
+    {
+        "codigo": "300",
+        "nombre": "Catalina",
+        "notas": [
+            4,
+            5,
+            2
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "totalestudiantes": 4,
+    "listaestudiantes": [
+        "a",
+        "b",
+        "c",
+        "d"
+    ],
+    "listanotas": [
+        3.0,
+        4.0,
+        5.0,
+        5.0
+    ]
+}

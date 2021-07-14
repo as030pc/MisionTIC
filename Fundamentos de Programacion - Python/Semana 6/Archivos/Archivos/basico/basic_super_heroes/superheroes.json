@@ -1,0 +1,79 @@
+{
+    "equipo1": {
+        "nombre": "superHero",
+        "ciudad": "NewYork",
+        "active": true,
+        "miembros": [
+            {
+                "nombre": "batman",
+                "edad": 30,
+                "poderes": [
+                    "Volar",
+                    "subir edificios"
+                ]
+            },
+            {
+                "nombre": "superman",
+                "edad": 40,
+                "poderes": [
+                    "vision laser",
+                    "super fuerza"
+                ]
+            },
+            {
+                "nombre": "aquaman",
+                "edad": 25,
+                "poderes": [
+                    "nadar",
+                    "super velocidad"
+                ]
+            },
+            {
+                "nombre": "tor",
+                "edad": 28,
+                "poderes": [
+                    "superfuerza",
+                    "martillo magico"
+                ]
+            }
+        ]
+    },
+    "equipo2": {
+        "nombre": "superFire",
+        "ciudad": "Miami",
+        "active": false,
+        "miembros2": [
+            {
+                "nombre": "mujer maravilla",
+                "edad": 38,
+                "poderes": [
+                    "latigo",
+                    "artes marciales"
+                ]
+            },
+            {
+                "nombre": "Hulk",
+                "edad": 50,
+                "poderes": [
+                    "super fuerza"
+                ]
+            },
+            {
+                "nombre": "antman",
+                "edad": 25,
+                "poderes": [
+                    "velocidad",
+                    "super peque\u00f1o"
+                ]
+            },
+            {
+                "nombre": "spiderman",
+                "edad": 24,
+                "poderes": [
+                    "telara\u00f1a",
+                    "trepar edificios"
+                ]
+            }
+        ]
+    }
+}
